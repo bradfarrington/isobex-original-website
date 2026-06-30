@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.zVhR5b_q.mjs";function t(e,t){return{description:`Discover high-performance fiber laser cutting machines for sheet, tube, and plate processing. Precision engineering and expert UK support from Isobex.`,favicon:`/_assets/media/images/C08qYg1c3wveaPk6ZM2Q7trrGZg.png`,robots:`max-image-preview:large`,title:`Industrial Fiber Laser Cutting Machines | Isobex UK`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.4gLtlDRp.mjs.map

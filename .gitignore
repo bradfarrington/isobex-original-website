@@ -1,0 +1,7 @@
+# Intermediate raw capture (re-creatable via `npm run build`)
+raw/
+
+# OS / editor cruft
+.DS_Store
+*.log
+node_modules/

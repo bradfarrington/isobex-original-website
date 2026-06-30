@@ -1,0 +1,18 @@
+{
+  "name": "isobex-static-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted, de-Framered static clone of isobexlasers.co.uk",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "node tools/scripts/run-all.mjs",
+    "build:fetch": "node tools/scripts/01-fetch-html.mjs",
+    "build:assets": "node tools/scripts/02-download-assets.mjs",
+    "build:transform": "node tools/scripts/03-transform.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

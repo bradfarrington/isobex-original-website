@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isobexlasers.co.uk/sitemap.xml
